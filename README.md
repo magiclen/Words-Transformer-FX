@@ -1,4 +1,4 @@
-Image Resizer Light
+Words Transformer FX
 =================================
 
 # Introduction
